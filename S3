@@ -1,3 +1,4 @@
 git fetch
-git push
-
+git push origin master
+Username for 'https://github.com': SteveHuang27
+Password for 'https://SteveHuang27@github.com': 
